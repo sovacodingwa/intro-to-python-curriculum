@@ -1,4 +1,4 @@
-# Sova Coding Python Trimester 1 Curriculum
+# Sova Coding Intro to Python Curriculum
 
 ## Overview
 This curriculum is designed for absolute beginners in Python programming, gradually introducing concepts across 10 lessons.  
